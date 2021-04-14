@@ -1,9 +1,5 @@
-﻿/*Graph Theory - assignment 2, Date: 19/01/2020
+/*Graph Theory - assignment 2, Date: 19/01/2020
 development environment - Visual Studio 2017
-Assigned by:
-Lilach Naor - ID: 313588352
-Sapir Shemesh - ID: 311342794
-Lecturer - Eugen Mandrescu‏, course id: 61309-1
 */
 
 #define _CRT_SECURE_NO_WARNINGS
